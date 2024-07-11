@@ -1,7 +1,7 @@
-[! [MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) ](https://ankitaa19.io)
+
 <h1 align="center">Hi 👋, I'm Ankita Lokhande</h1>
 <h3 align="center">Enthusiastic Computer Science Student | Code Lover | Problem Solver</h3>
-<img align=“right”  alt=“Coding”. width=“400” src=“https://i.pinimg.com/564x/c4/c6/96/c4c696d43555c08f806375759e1b7528.jpg”>
+<img align=“right”  alt=“Coding”. width=“400” src=”https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaa19&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaa19" /> </p>
 
