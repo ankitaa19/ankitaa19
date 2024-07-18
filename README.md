@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitaa19" alt="ankitaa19" /></a> </p>
 
-    -👨‍💻 I live in Mumbai,Bharat🇮🇳
+    -👨‍💻 ɪ ʟɪᴠᴇ ɪɴ ᴍᴜᴍʙᴀɪ,ʙʜᴀʀᴀᴛ🇮🇳
 
-    -🧑🏻‍🎓 Student Ambassador at Let's Upgrade.
+    -🧑🏻‍🎓 ꜱᴛᴜᴅᴇɴᴛ ᴀᴍʙᴀꜱꜱᴀᴅᴏʀ ᴀᴛ ʟᴇᴛ'ꜱ ᴜᴘɢʀᴀᴅᴇ.
 
-    -👨‍💻 First-year B.Tech student at ITM Skills University.
+    -👨‍💻 Sᴇᴄᴏɴᴅ-ʏᴇᴀʀ ʙ.ᴛᴇᴄʜ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ ɪᴛᴍ ꜱᴋɪʟʟꜱ ᴜɴɪᴠᴇʀꜱɪᴛʏ.
 
-    -🚀 Coding enthusiast exploring the world of programming.
+    -🚀 ᴄᴏᴅɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴇxᴘʟᴏʀɪɴɢ ᴛʜᴇ ᴡᴏʀʟᴅ ᴏꜰ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ.
+    
+    -🌱 ᴄᴏᴅɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴇ𝕩ᴘʟᴏʀɪɴɢ ᴛʜᴇ ᴡᴏʀʟᴅ ᴏꜰ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ.
 
-    -🌱 Currently diving deep into Python.
-
-    -⚡ Passionate about AI and AR/VR.
+    -⚡ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴀɪ ᴀɴᴅ ᴀʀ/ᴠʀ.
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
