@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ankita+Lokhande;Computer+Science+Student;Aspiring+Software+Engineer;Passionate+about+AI+%26+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ankita+Lokhande;Computer+Science+Student;Aspiring+Software+Engineer;Passionate+about+AI+%26+ML" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -122,20 +122,6 @@ const Ankita = {
 
 ---
 
-## 🐾 My Contribution Journey
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitaa19/ankitaa19/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitaa19/ankitaa19/output/github-contribution-grid-snake.svg">
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ankitaa19/ankitaa19/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-  
-  <sub>💡 <i>An animated creature moves through my actual GitHub contributions!</i></sub>
-</div>
-
----
-
 ## 🌊 Ocean of Learning - Depth of My Coding Journey
 
 <div align="center">
@@ -224,5 +210,5 @@ graph LR
 
   ### 💡 "The only way to do great work is to love what you do." - Steve Jobs
 
-  <p>⭐️ From <a href="https://github.com/ankitaa19">Ankita Lokhande</a> | Made with 💜 and ☕</p>
+  <p>⭐️ From <a href="https://github.com/ankitaa19">Ankita Lokhande</a></p>
 </div>
